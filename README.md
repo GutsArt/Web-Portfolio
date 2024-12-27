@@ -1,4 +1,4 @@
-[Portfolio Website.zip](https://github.com/user-attachments/files/18260383/Portfolio.Website.zip)[Portfolio Website - Google Chrome 2024-12-27 13-14-47.zip](https://github.com/user-attachments/files/18260380/Portfolio.Website.-.Google.Chrome.2024-12-27.13-14-47.zip)# **Web Portfolio**
+**Web Portfolio**
 
 ## **Description**
 This is a personal web portfolio created to showcase my skills, achievements and projects. The site includes sections with information about me, my education, services, skills and contact information.
